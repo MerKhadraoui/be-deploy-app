@@ -1,0 +1,13 @@
+/7-Mongdb-html-Dotenv/.env
+/7-Mongdb-html-Dotenv/node_modules
+
+/12-Mongo Relations/.env
+/12-Mongo Relations/node_modules
+/16-global-try-catch/.env
+/16-global-try-catch/node_modules
+17-Cloudinary-multer/.env
+17-Cloudinary-multer/node_modules
+17-Cloudinary-multer/client/node_modules
+
+*.env
+*node_modules
